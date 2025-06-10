@@ -114,11 +114,11 @@
 </head>
 <body>
     <div class="container">
-        <h1>Salve, família! <span class="emoji">🙏</span></h1>
+        <h1>Seu pedido foi entregue! <span class="emoji">🙏</span></h1>
         
-        <p>Sou motoboy, trabalhador, guerreiro no corre de cada dia, faça chuva ou frio, sempre na missão de levar o sustento pra casa e cuidar da minha família com dignidade.</p>
+        <p>Entreguei sua comida sem comer um pedacinho.</p>
         
-        <p>Se você puder ajudar com qualquer valor simbólico, agradeço de coração.</p>
+        <p>isso já merece um trocado, vai!.</p>
         
         <div class="pix-section">
             <p>Chave Pix:</p>
